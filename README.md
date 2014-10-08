@@ -2,8 +2,6 @@
 
 This is the full ISO-7812 implementation, in ruby! This is battle tested, production ready. Use at will.
 
-I also included the specification itself in the 'doc' folder (PDF). I paid for it, but you shouldn't. Information should be free.
-
 The project is 100% documented and you shouldn't have any problem understanding the standard just by reading the comments.
 
 I recommend that you copy those files into your own project and not use this as a gem. 
